@@ -1,8 +1,8 @@
 # Vehicle Detection and Tracking
-## Final Results
-Click to play clip:
+## Final Results via Deep Learning
+Click to play video:
 
-[![YOLOv5 Video](https://i9.ytimg.com/vi/sitoSZPr8HQ/mq1.jpg?sqp=CISUzv8F&rs=AOn4CLBQI4lPXqDDSeHQTGLNMD2pNIqzuA)](https://youtu.be/sitoSZPr8HQ "YOLOv5 Video")
+[![YOLOv5 Video](v4/0000000005.png)](https://youtu.be/sitoSZPr8HQ "YOLOv5 Video")
 
 ## 1st Implementation: Manual Feature Extraction + Classifier
 1. Color Features
@@ -26,13 +26,13 @@ Train SVM to classify Car/Not Car.
 Slide a window (at different scales) over the frames and for each window, classify car/not-car.
 
 ### Manual Feature Extraction Results
-Click to play:
+Click to play video:
 
-[![Manual Feature Extraction Video](https://i9.ytimg.com/vi/N94dRl46f8k/mq2.jpg?sqp=CNyYzv8F&rs=AOn4CLCB51cnQ4zh0pTPqbUynmH0WOxFFQ)](https://youtu.be/N94dRl46f8k "Manual Feature Extraction Video")
+[![Manual Feature Extraction Video](v3/0000000233.png)](https://youtu.be/N94dRl46f8k "Manual Feature Extraction Video")
 
 ## Deep Learning Implementation (YOLOv5)
 Learning the features directly. 
 
-Click to play:
+Click to play video:
 
-[![YOLOv5 Video](https://i9.ytimg.com/vi/sitoSZPr8HQ/mq1.jpg?sqp=CISUzv8F&rs=AOn4CLBQI4lPXqDDSeHQTGLNMD2pNIqzuA)](https://youtu.be/sitoSZPr8HQ "YOLOv5 Video")
+[![YOLOv5 Video](v4/0000000005.png)](https://youtu.be/sitoSZPr8HQ "YOLOv5 Video")
