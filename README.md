@@ -28,7 +28,7 @@ Slide a window (at different scales) over the frames and for each window, classi
 ### Manual Feature Extraction Results
 Click to play video:
 
-[![Manual Feature Extraction Video](docs/0000000233.png)](https://youtu.be/N94dRl46f8k)
+[![Manual Feature Extraction](docs/0000000215.png)](https://youtu.be/N94dRl46f8k)
 
 ## Deep Learning Implementation (YOLOv5)
 Learning the features directly. 
