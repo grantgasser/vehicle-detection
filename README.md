@@ -2,7 +2,7 @@
 ## Final Results via Deep Learning
 Click to play video:
 
-[![YOLOv5 Video](v4/0000000005.png)](https://youtu.be/sitoSZPr8HQ "YOLOv5 Video")
+[![YOLOv5 Video](docs/0000000005.png)](https://youtu.be/sitoSZPr8HQ)
 
 ## 1st Implementation: Manual Feature Extraction + Classifier
 1. Color Features
@@ -28,11 +28,11 @@ Slide a window (at different scales) over the frames and for each window, classi
 ### Manual Feature Extraction Results
 Click to play video:
 
-[![Manual Feature Extraction Video](v3/0000000233.png)](https://youtu.be/N94dRl46f8k "Manual Feature Extraction Video")
+[![Manual Feature Extraction Video](docs/0000000233.png)](https://youtu.be/N94dRl46f8k)
 
 ## Deep Learning Implementation (YOLOv5)
 Learning the features directly. 
 
 Click to play video:
 
-[![YOLOv5 Video](v4/0000000005.png)](https://youtu.be/sitoSZPr8HQ "YOLOv5 Video")
+[![YOLOv5 Video](docs/0000000005.png)](https://youtu.be/sitoSZPr8HQ)
